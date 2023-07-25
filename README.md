@@ -23,7 +23,7 @@ The repository is organized as follows:
 
 - **Project Storytelling:** The ppt file with the Detailed Storytelling.
 - **Description:** The main file with the Detailed Description.
-- **Problems and solutions** The main PDF file with all the Problems and solutions.
+- **Problems and solutions:** The main PDF file with all the Problems and solutions.
 - **README.md:** This README file.
   
 
