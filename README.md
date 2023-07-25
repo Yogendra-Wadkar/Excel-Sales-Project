@@ -21,11 +21,13 @@ The project involves thorough data cleaning and preparation to ensure data accur
 
 The repository is organized as follows:
 
-- **Data:** Contains the cleaned and prepared dataset for analysis.
-- **Excel Analysis File:** The main Excel file containing all data analysis and visualizations.
+- **Project Storytelling:** The ppt file with the Detailed Storytelling.
+- **Description:** The main file with the Detailed Description.
+- **Problems and solutions** The main PDF file with all the Problems and solutions.
 - **README.md:** This README file.
+  
 
-## Analysis Highlights
+## Dashboard
 
 -![Dashboard](https://github.com/Yogendra-Wadkar/Excel-Sales-Project/assets/134367735/40775323-ca96-4974-8eae-08203d57567f) Dashboard containing highlights and key insights from the Excel data analysis.
 
